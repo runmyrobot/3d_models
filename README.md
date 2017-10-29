@@ -1,3 +1,3 @@
-# private_3d_models
+# 3d_models
 
 License GPL
